@@ -1,0 +1,11 @@
+.DS_Store
+.tools/
+artifacts/
+*.apk
+*.aab
+*.exe
+*.dll
+*.ipa
+*.dmg
+*.zip
+*.7z
